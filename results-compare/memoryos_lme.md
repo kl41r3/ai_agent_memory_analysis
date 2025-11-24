@@ -36,6 +36,26 @@
 | response_duration_s_p95 | 4.933 | 4.228 | 4.803 | 3.943 | 5.706 | 5.170 | 5.664 |
 
 
+### 重新跑了multi-session
+
+| metric | multi-session |
+|---|---|
+| llm_judge_score | 56.06 |
+| llm_judge_std | 0.0000 |
+| f1 | 41.83 |
+| rouge1_f | 41.00 |
+| rouge2_f | 12.31 |
+| rougeL_f | 40.32 |
+| bleu1 | 37.63 |
+| bleu2 | 29.31 |
+| bleu3 | 15.38 |
+| bleu4 | 11.17 |
+| meteor | 36.15 |
+| bert_f1 | 52.57 |
+| similarity | 76.64 |
+| context_tokens | 6697.6212 |
+
+
 
 # Result of Memoryos on LME
 
